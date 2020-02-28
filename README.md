@@ -15,8 +15,7 @@ Private LB: 0.42048(16th)
 
 
 My model(5 fold averaging)   
-Public LB: 0.40209 
-
+Public LB: 0.40209   
 Private LB: 0.38204
 ##### Note: No post-processing has been applied to this model.
 
