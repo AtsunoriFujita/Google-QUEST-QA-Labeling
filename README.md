@@ -14,7 +14,7 @@ Private LB: 0.42048(16th)
 ##### Note: This repository contains only my models and only train script.
 
 
-My model(5 Model averaging)   
+My model(5 fold averaging)   
 Public LB: 0.40209
 Private LB: 0.38204
 ##### Note: No post-processing has been applied to this model.
