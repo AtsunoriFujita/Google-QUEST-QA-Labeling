@@ -30,4 +30,4 @@ Private LB: 0.38204
     - accumulation_steps = 2
     - lr = 1.5e-5
 
-
+![atfujita's model](images/atfujita_model.png)
