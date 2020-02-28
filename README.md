@@ -31,3 +31,5 @@ Private LB: 0.38204
     - lr = 1.5e-5
 
 ![atfujita's model](images/atfujita_model.png)
+
+![Our models](images/our_models.png)
